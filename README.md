@@ -83,7 +83,7 @@ npm install
 ```
 
 - Start Ganache
-- make sure that HardHat is linked to ganache
+- make sure that HardHat is linked to ganache in ` hardhat.config.js `
 
 ```
 
@@ -119,7 +119,7 @@ npx hardhat --network localhost compile
 ```
 npx hardhat --network localhost run ./scripts/deploy.js
 ```
->the output of this command give you the contract adreses that you need to put it in  vuex frontend file : ``` frontend/src/store/index.js ```
+>the output of this command give you the contract adreses that you need to put it in  vuex frontend file : ` frontend/src/store/index.js `
 
 ```
     contract_address: "0x4fdeC56e37aa2BF685B35A34dA66074e8E34585a",
