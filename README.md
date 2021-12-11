@@ -28,7 +28,7 @@
   <a href="#license">License</a>
 </p>
 
-![](https://imgur.com/a/4tmXVHb.gif)
+![Recordit GIF](http://g.recordit.co/jLQPrUyeb2.gif)
 
 ---
 ## Developed Using 
