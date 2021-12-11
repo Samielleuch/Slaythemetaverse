@@ -1,6 +1,6 @@
 # Slay The Metaverse
 
-<h4 align="center"> A decentralized NFT based game  </h4>
+<h4 align="center"> A decentralized NFT coop fighting game  </h4>
 
 <h4 align="center"> Join your friends and kill bosses together for prizes </h4>
 
@@ -28,8 +28,7 @@
   <a href="#license">License</a>
 </p>
 
-
-![image](https://imgur.com/a/4tmXVHb)
+![](https://imgur.com/a/4tmXVHb.gif)
 
 ---
 ## Developed Using 
@@ -157,7 +156,7 @@ npm run serve
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/Samielleuch/Neghlbouh.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/Samielleuch/Slaythemetaverse.git`
 
 ### Step 2
 
@@ -165,6 +164,6 @@ npm run serve
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/Samielleuch/Neghlbouh/compare/" target="_blank">`https://github.com/Samielleuch/Neghlbouh/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/Samielleuch/Slaythemetaverse/compare/" target="_blank">`https://github.com/Samielleuch/Slaythemetaverse/compare/`</a>.
 
 ---
